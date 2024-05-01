@@ -1,8 +1,8 @@
 # sql-challenge
 
 # Data Modeling
-- By examining the provided CSV, an Entity Relationship Diagram of the tables skech `employee_ERD_Skech.png` 
-- The final Entity Relationship Diagram of the tables were created using PostgreSQL after the tabele created and relationship constructed `employee_ERD.png`
+- By examining the provided CSV, an Entity Relationship Diagram of the tables `employee_ERD_Skech.png` skeched using QuickDBD.
+- The final Entity Relationship Diagram of the tables were created using PostgreSQL after the tabele created and relationship constructed `employee_ERD.png`.
 
 # Data Engineering
 ### Creating Tables:
